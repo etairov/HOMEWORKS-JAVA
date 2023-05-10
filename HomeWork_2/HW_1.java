@@ -4,7 +4,7 @@
 //SELECT * FROM students WHERE name = "Ivanov" AND country = "Russia" AND city = "Moscow";
 //Для разбора строки используйте String.split. Сформируйте новую строку, используя StringBuilder. Значения null не включаются в запрос.
 
-package HomeWork;
+package HomeWork_2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -17,7 +17,7 @@ public class HW_1 {
 
         // Читаем из файла и запысываем в StringBuilder sb
         StringBuilder sb = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new FileReader("HomeWork/person.json"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("HomeWork_2/HW_1_text.json"))) {
             String data;
             while ((data = br.readLine()) != null) {
                 sb.append(data);

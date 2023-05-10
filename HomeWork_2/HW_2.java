@@ -1,6 +1,7 @@
 //Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
+//
 
-package HomeWork;
+package HomeWork_2;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -13,13 +14,13 @@ public class HW_2 {
     public static void main(String[] args) throws IOException {
         // добавление логгера
         Logger logger = Logger.getLogger(HW_2.class.getName());
-        FileHandler fileHandler = new FileHandler("lesson2/test.log", true);
+        FileHandler fileHandler = new FileHandler("HomeWork_2/HW_2_test.log", true);
         logger.addHandler(fileHandler);
         //заполнение массива случайными числами
-        int[] data = new int[20];
+        int[] data = new int[10];
         for (int i = 0; i < data.length; i++) {
             Random rand = new Random();
-            data[i] = rand.nextInt(100);
+            data[i] = rand.nextInt(50);
         }
         System.out.printf("Вывод неотсортированного массива: %s\n", Arrays.toString(data));
         //Сортировка пузырьком

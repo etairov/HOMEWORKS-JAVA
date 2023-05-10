@@ -1,0 +1,3556 @@
+{1, 14, 4, 3, 7, 13, 15, 9, 2}<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-10T00:18:03.753929600Z</date>
+  <millis>1683677883753</millis>
+  <nanos>929600</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.818425400Z</date>
+  <millis>1683677883818</millis>
+  <nanos>425400</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.818425400Z</date>
+  <millis>1683677883818</millis>
+  <nanos>425400</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.818425400Z</date>
+  <millis>1683677883818</millis>
+  <nanos>425400</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.818425400Z</date>
+  <millis>1683677883818</millis>
+  <nanos>425400</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.818425400Z</date>
+  <millis>1683677883818</millis>
+  <nanos>425400</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.826417800Z</date>
+  <millis>1683677883826</millis>
+  <nanos>417800</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 97</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 25</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.834417Z</date>
+  <millis>1683677883834</millis>
+  <nanos>417000</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>23</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.842417600Z</date>
+  <millis>1683677883842</millis>
+  <nanos>417600</nanos>
+  <sequence>24</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>25</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>26</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>27</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>28</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>29</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>30</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>31</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.850417100Z</date>
+  <millis>1683677883850</millis>
+  <nanos>417100</nanos>
+  <sequence>32</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>33</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>34</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>35</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>36</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>37</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.858417400Z</date>
+  <millis>1683677883858</millis>
+  <nanos>417400</nanos>
+  <sequence>38</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>39</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>40</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 25</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>41</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>42</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>43</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>44</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.866496500Z</date>
+  <millis>1683677883866</millis>
+  <nanos>496500</nanos>
+  <sequence>45</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.874499900Z</date>
+  <millis>1683677883874</millis>
+  <nanos>499900</nanos>
+  <sequence>46</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.874499900Z</date>
+  <millis>1683677883874</millis>
+  <nanos>499900</nanos>
+  <sequence>47</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.874499900Z</date>
+  <millis>1683677883874</millis>
+  <nanos>499900</nanos>
+  <sequence>48</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.879005600Z</date>
+  <millis>1683677883879</millis>
+  <nanos>5600</nanos>
+  <sequence>49</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.882512100Z</date>
+  <millis>1683677883882</millis>
+  <nanos>512100</nanos>
+  <sequence>50</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 12</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.882512100Z</date>
+  <millis>1683677883882</millis>
+  <nanos>512100</nanos>
+  <sequence>51</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.882512100Z</date>
+  <millis>1683677883882</millis>
+  <nanos>512100</nanos>
+  <sequence>52</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.882512100Z</date>
+  <millis>1683677883882</millis>
+  <nanos>512100</nanos>
+  <sequence>53</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.882512100Z</date>
+  <millis>1683677883882</millis>
+  <nanos>512100</nanos>
+  <sequence>54</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.890756900Z</date>
+  <millis>1683677883890</millis>
+  <nanos>756900</nanos>
+  <sequence>55</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.891566700Z</date>
+  <millis>1683677883891</millis>
+  <nanos>566700</nanos>
+  <sequence>56</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 91</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.891566700Z</date>
+  <millis>1683677883891</millis>
+  <nanos>566700</nanos>
+  <sequence>57</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 91</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.899071100Z</date>
+  <millis>1683677883899</millis>
+  <nanos>71100</nanos>
+  <sequence>58</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.901684Z</date>
+  <millis>1683677883901</millis>
+  <nanos>684000</nanos>
+  <sequence>59</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.905484100Z</date>
+  <millis>1683677883905</millis>
+  <nanos>484100</nanos>
+  <sequence>60</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.905484100Z</date>
+  <millis>1683677883905</millis>
+  <nanos>484100</nanos>
+  <sequence>61</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.908375800Z</date>
+  <millis>1683677883908</millis>
+  <nanos>375800</nanos>
+  <sequence>62</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.912684500Z</date>
+  <millis>1683677883912</millis>
+  <nanos>684500</nanos>
+  <sequence>63</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.915102100Z</date>
+  <millis>1683677883915</millis>
+  <nanos>102100</nanos>
+  <sequence>64</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 84</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.915102100Z</date>
+  <millis>1683677883915</millis>
+  <nanos>102100</nanos>
+  <sequence>65</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.915102100Z</date>
+  <millis>1683677883915</millis>
+  <nanos>102100</nanos>
+  <sequence>66</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.915102100Z</date>
+  <millis>1683677883915</millis>
+  <nanos>102100</nanos>
+  <sequence>67</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.915102100Z</date>
+  <millis>1683677883915</millis>
+  <nanos>102100</nanos>
+  <sequence>68</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.924470200Z</date>
+  <millis>1683677883924</millis>
+  <nanos>470200</nanos>
+  <sequence>69</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.925039300Z</date>
+  <millis>1683677883925</millis>
+  <nanos>39300</nanos>
+  <sequence>70</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.929168700Z</date>
+  <millis>1683677883929</millis>
+  <nanos>168700</nanos>
+  <sequence>71</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.931187Z</date>
+  <millis>1683677883931</millis>
+  <nanos>187000</nanos>
+  <sequence>72</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.934320500Z</date>
+  <millis>1683677883934</millis>
+  <nanos>320500</nanos>
+  <sequence>73</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.934320500Z</date>
+  <millis>1683677883934</millis>
+  <nanos>320500</nanos>
+  <sequence>74</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.934320500Z</date>
+  <millis>1683677883934</millis>
+  <nanos>320500</nanos>
+  <sequence>75</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 52</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.940186Z</date>
+  <millis>1683677883940</millis>
+  <nanos>186000</nanos>
+  <sequence>76</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 52</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.942681800Z</date>
+  <millis>1683677883942</millis>
+  <nanos>681800</nanos>
+  <sequence>77</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 52</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>78</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 61</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>79</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>80</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>81</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>82</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 25</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.947891800Z</date>
+  <millis>1683677883947</millis>
+  <nanos>891800</nanos>
+  <sequence>83</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 36</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.965614600Z</date>
+  <millis>1683677883965</millis>
+  <nanos>614600</nanos>
+  <sequence>84</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 12</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.965614600Z</date>
+  <millis>1683677883965</millis>
+  <nanos>614600</nanos>
+  <sequence>85</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 25</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:03.986026800Z</date>
+  <millis>1683677883986</millis>
+  <nanos>26800</nanos>
+  <sequence>86</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-10T00:18:23.300953500Z</date>
+  <millis>1683677903300</millis>
+  <nanos>953500</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 22</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.348969400Z</date>
+  <millis>1683677903348</millis>
+  <nanos>969400</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.348969400Z</date>
+  <millis>1683677903348</millis>
+  <nanos>969400</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.348969400Z</date>
+  <millis>1683677903348</millis>
+  <nanos>969400</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.348969400Z</date>
+  <millis>1683677903348</millis>
+  <nanos>969400</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.356970Z</date>
+  <millis>1683677903356</millis>
+  <nanos>970000</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 95</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.364969800Z</date>
+  <millis>1683677903364</millis>
+  <nanos>969800</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.372980Z</date>
+  <millis>1683677903372</millis>
+  <nanos>980000</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.372980Z</date>
+  <millis>1683677903372</millis>
+  <nanos>980000</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.372980Z</date>
+  <millis>1683677903372</millis>
+  <nanos>980000</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.372980Z</date>
+  <millis>1683677903372</millis>
+  <nanos>980000</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.372980Z</date>
+  <millis>1683677903372</millis>
+  <nanos>980000</nanos>
+  <sequence>23</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>24</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>25</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>26</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>27</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>28</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>29</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.380995500Z</date>
+  <millis>1683677903380</millis>
+  <nanos>995500</nanos>
+  <sequence>30</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.388986600Z</date>
+  <millis>1683677903388</millis>
+  <nanos>986600</nanos>
+  <sequence>31</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.388986600Z</date>
+  <millis>1683677903388</millis>
+  <nanos>986600</nanos>
+  <sequence>32</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.388986600Z</date>
+  <millis>1683677903388</millis>
+  <nanos>986600</nanos>
+  <sequence>33</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.388986600Z</date>
+  <millis>1683677903388</millis>
+  <nanos>986600</nanos>
+  <sequence>34</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.388986600Z</date>
+  <millis>1683677903388</millis>
+  <nanos>986600</nanos>
+  <sequence>35</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>36</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>37</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>38</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>39</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>40</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.396996Z</date>
+  <millis>1683677903396</millis>
+  <nanos>996000</nanos>
+  <sequence>41</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.405011600Z</date>
+  <millis>1683677903405</millis>
+  <nanos>11600</nanos>
+  <sequence>42</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.406714600Z</date>
+  <millis>1683677903406</millis>
+  <nanos>714600</nanos>
+  <sequence>43</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.406714600Z</date>
+  <millis>1683677903406</millis>
+  <nanos>714600</nanos>
+  <sequence>44</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.406714600Z</date>
+  <millis>1683677903406</millis>
+  <nanos>714600</nanos>
+  <sequence>45</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 88</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.406714600Z</date>
+  <millis>1683677903406</millis>
+  <nanos>714600</nanos>
+  <sequence>46</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.410719600Z</date>
+  <millis>1683677903410</millis>
+  <nanos>719600</nanos>
+  <sequence>47</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>48</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>49</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>50</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>51</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>52</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>53</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>54</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>55</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.413226100Z</date>
+  <millis>1683677903413</millis>
+  <nanos>226100</nanos>
+  <sequence>56</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>57</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>58</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>59</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>60</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>61</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 74</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.421237300Z</date>
+  <millis>1683677903421</millis>
+  <nanos>237300</nanos>
+  <sequence>62</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 63</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>63</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 63</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>64</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>65</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>66</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>67</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>68</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 63</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>69</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 63</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>70</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>71</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>72</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>73</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 36</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.429238300Z</date>
+  <millis>1683677903429</millis>
+  <nanos>238300</nanos>
+  <sequence>74</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 36</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.437237300Z</date>
+  <millis>1683677903437</millis>
+  <nanos>237300</nanos>
+  <sequence>75</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.437237300Z</date>
+  <millis>1683677903437</millis>
+  <nanos>237300</nanos>
+  <sequence>76</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 22</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.445240300Z</date>
+  <millis>1683677903445</millis>
+  <nanos>240300</nanos>
+  <sequence>77</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 22</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.445240300Z</date>
+  <millis>1683677903445</millis>
+  <nanos>240300</nanos>
+  <sequence>78</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.445240300Z</date>
+  <millis>1683677903445</millis>
+  <nanos>240300</nanos>
+  <sequence>79</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 10</message>
+</record>
+<record>
+  <date>2023-05-10T00:18:23.445240300Z</date>
+  <millis>1683677903445</millis>
+  <nanos>240300</nanos>
+  <sequence>80</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 36</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-10T00:19:05.753662200Z</date>
+  <millis>1683677945753</millis>
+  <nanos>662200</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.800872100Z</date>
+  <millis>1683677945800</millis>
+  <nanos>872100</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.800872100Z</date>
+  <millis>1683677945800</millis>
+  <nanos>872100</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.800872100Z</date>
+  <millis>1683677945800</millis>
+  <nanos>872100</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.808877800Z</date>
+  <millis>1683677945808</millis>
+  <nanos>877800</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.816878900Z</date>
+  <millis>1683677945816</millis>
+  <nanos>878900</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.816878900Z</date>
+  <millis>1683677945816</millis>
+  <nanos>878900</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.816878900Z</date>
+  <millis>1683677945816</millis>
+  <nanos>878900</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 96</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.816878900Z</date>
+  <millis>1683677945816</millis>
+  <nanos>878900</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.824877200Z</date>
+  <millis>1683677945824</millis>
+  <nanos>877200</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.832878Z</date>
+  <millis>1683677945832</millis>
+  <nanos>878000</nanos>
+  <sequence>23</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.832878Z</date>
+  <millis>1683677945832</millis>
+  <nanos>878000</nanos>
+  <sequence>24</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.832878Z</date>
+  <millis>1683677945832</millis>
+  <nanos>878000</nanos>
+  <sequence>25</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.832878Z</date>
+  <millis>1683677945832</millis>
+  <nanos>878000</nanos>
+  <sequence>26</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>27</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>28</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>29</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 94</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>30</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>31</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>32</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.840877Z</date>
+  <millis>1683677945840</millis>
+  <nanos>877000</nanos>
+  <sequence>33</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>34</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>35</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>36</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>37</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>38</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.848877700Z</date>
+  <millis>1683677945848</millis>
+  <nanos>877700</nanos>
+  <sequence>39</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.856895800Z</date>
+  <millis>1683677945856</millis>
+  <nanos>895800</nanos>
+  <sequence>40</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.856895800Z</date>
+  <millis>1683677945856</millis>
+  <nanos>895800</nanos>
+  <sequence>41</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.856895800Z</date>
+  <millis>1683677945856</millis>
+  <nanos>895800</nanos>
+  <sequence>42</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.856895800Z</date>
+  <millis>1683677945856</millis>
+  <nanos>895800</nanos>
+  <sequence>43</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>44</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>45</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>46</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>47</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>48</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>49</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.864876900Z</date>
+  <millis>1683677945864</millis>
+  <nanos>876900</nanos>
+  <sequence>50</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.872892500Z</date>
+  <millis>1683677945872</millis>
+  <nanos>892500</nanos>
+  <sequence>51</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.872892500Z</date>
+  <millis>1683677945872</millis>
+  <nanos>892500</nanos>
+  <sequence>52</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 86</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.875921100Z</date>
+  <millis>1683677945875</millis>
+  <nanos>921100</nanos>
+  <sequence>53</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.875921100Z</date>
+  <millis>1683677945875</millis>
+  <nanos>921100</nanos>
+  <sequence>54</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.875921100Z</date>
+  <millis>1683677945875</millis>
+  <nanos>921100</nanos>
+  <sequence>55</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.875921100Z</date>
+  <millis>1683677945875</millis>
+  <nanos>921100</nanos>
+  <sequence>56</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.875921100Z</date>
+  <millis>1683677945875</millis>
+  <nanos>921100</nanos>
+  <sequence>57</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>58</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>59</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>60</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>61</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>62</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>63</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.880925700Z</date>
+  <millis>1683677945880</millis>
+  <nanos>925700</nanos>
+  <sequence>64</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>65</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>66</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>67</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>68</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>69</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 58</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>70</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 58</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.888930800Z</date>
+  <millis>1683677945888</millis>
+  <nanos>930800</nanos>
+  <sequence>71</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 58</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.896930300Z</date>
+  <millis>1683677945896</millis>
+  <nanos>930300</nanos>
+  <sequence>72</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 58</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.900314200Z</date>
+  <millis>1683677945900</millis>
+  <nanos>314200</nanos>
+  <sequence>73</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.905320900Z</date>
+  <millis>1683677945905</millis>
+  <nanos>320900</nanos>
+  <sequence>74</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.905320900Z</date>
+  <millis>1683677945905</millis>
+  <nanos>320900</nanos>
+  <sequence>75</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.905320900Z</date>
+  <millis>1683677945905</millis>
+  <nanos>320900</nanos>
+  <sequence>76</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.905320900Z</date>
+  <millis>1683677945905</millis>
+  <nanos>320900</nanos>
+  <sequence>77</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.913686700Z</date>
+  <millis>1683677945913</millis>
+  <nanos>686700</nanos>
+  <sequence>78</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.913686700Z</date>
+  <millis>1683677945913</millis>
+  <nanos>686700</nanos>
+  <sequence>79</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.913686700Z</date>
+  <millis>1683677945913</millis>
+  <nanos>686700</nanos>
+  <sequence>80</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.913686700Z</date>
+  <millis>1683677945913</millis>
+  <nanos>686700</nanos>
+  <sequence>81</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.913686700Z</date>
+  <millis>1683677945913</millis>
+  <nanos>686700</nanos>
+  <sequence>82</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.921695800Z</date>
+  <millis>1683677945921</millis>
+  <nanos>695800</nanos>
+  <sequence>83</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.921695800Z</date>
+  <millis>1683677945921</millis>
+  <nanos>695800</nanos>
+  <sequence>84</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 63</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.929693200Z</date>
+  <millis>1683677945929</millis>
+  <nanos>693200</nanos>
+  <sequence>85</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.929693200Z</date>
+  <millis>1683677945929</millis>
+  <nanos>693200</nanos>
+  <sequence>86</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.938166300Z</date>
+  <millis>1683677945938</millis>
+  <nanos>166300</nanos>
+  <sequence>87</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.938166300Z</date>
+  <millis>1683677945938</millis>
+  <nanos>166300</nanos>
+  <sequence>88</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.938166300Z</date>
+  <millis>1683677945938</millis>
+  <nanos>166300</nanos>
+  <sequence>89</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 58</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.946175Z</date>
+  <millis>1683677945946</millis>
+  <nanos>175000</nanos>
+  <sequence>90</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.954176600Z</date>
+  <millis>1683677945954</millis>
+  <nanos>176600</nanos>
+  <sequence>91</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.954883600Z</date>
+  <millis>1683677945954</millis>
+  <nanos>883600</nanos>
+  <sequence>92</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.954883600Z</date>
+  <millis>1683677945954</millis>
+  <nanos>883600</nanos>
+  <sequence>93</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.962389400Z</date>
+  <millis>1683677945962</millis>
+  <nanos>389400</nanos>
+  <sequence>94</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 50</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.962389400Z</date>
+  <millis>1683677945962</millis>
+  <nanos>389400</nanos>
+  <sequence>95</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.962389400Z</date>
+  <millis>1683677945962</millis>
+  <nanos>389400</nanos>
+  <sequence>96</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 37</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.970399300Z</date>
+  <millis>1683677945970</millis>
+  <nanos>399300</nanos>
+  <sequence>97</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.979053900Z</date>
+  <millis>1683677945979</millis>
+  <nanos>53900</nanos>
+  <sequence>98</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 37</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.986559100Z</date>
+  <millis>1683677945986</millis>
+  <nanos>559100</nanos>
+  <sequence>99</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.994565700Z</date>
+  <millis>1683677945994</millis>
+  <nanos>565700</nanos>
+  <sequence>100</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.994565700Z</date>
+  <millis>1683677945994</millis>
+  <nanos>565700</nanos>
+  <sequence>101</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 38</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.994565700Z</date>
+  <millis>1683677945994</millis>
+  <nanos>565700</nanos>
+  <sequence>102</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 37</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:05.994565700Z</date>
+  <millis>1683677945994</millis>
+  <nanos>565700</nanos>
+  <sequence>103</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 37</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-10T00:19:48.209355300Z</date>
+  <millis>1683677988209</millis>
+  <nanos>355300</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 31</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.263987300Z</date>
+  <millis>1683677988263</millis>
+  <nanos>987300</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 31</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.264975900Z</date>
+  <millis>1683677988264</millis>
+  <nanos>975900</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.265976200Z</date>
+  <millis>1683677988265</millis>
+  <nanos>976200</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.266975500Z</date>
+  <millis>1683677988266</millis>
+  <nanos>975500</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.269976400Z</date>
+  <millis>1683677988269</millis>
+  <nanos>976400</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.271975900Z</date>
+  <millis>1683677988271</millis>
+  <nanos>975900</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 49</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.272975200Z</date>
+  <millis>1683677988272</millis>
+  <nanos>975200</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.274976400Z</date>
+  <millis>1683677988274</millis>
+  <nanos>976400</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.275976100Z</date>
+  <millis>1683677988275</millis>
+  <nanos>976100</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.276975400Z</date>
+  <millis>1683677988276</millis>
+  <nanos>975400</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.276975400Z</date>
+  <millis>1683677988276</millis>
+  <nanos>975400</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.277975400Z</date>
+  <millis>1683677988277</millis>
+  <nanos>975400</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.278976Z</date>
+  <millis>1683677988278</millis>
+  <nanos>976000</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.279975500Z</date>
+  <millis>1683677988279</millis>
+  <nanos>975500</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.280975500Z</date>
+  <millis>1683677988280</millis>
+  <nanos>975500</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.281975300Z</date>
+  <millis>1683677988281</millis>
+  <nanos>975300</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 44</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.282975600Z</date>
+  <millis>1683677988282</millis>
+  <nanos>975600</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 44</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.286976700Z</date>
+  <millis>1683677988286</millis>
+  <nanos>976700</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 31</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.289975600Z</date>
+  <millis>1683677988289</millis>
+  <nanos>975600</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 31</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.290975800Z</date>
+  <millis>1683677988290</millis>
+  <nanos>975800</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 25</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.291975700Z</date>
+  <millis>1683677988291</millis>
+  <nanos>975700</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-05-10T00:19:48.292975500Z</date>
+  <millis>1683677988292</millis>
+  <nanos>975500</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWork_2.HW_2</logger>
+  <level>INFO</level>
+  <class>HomeWork_2.HW_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 17</message>
+</record>
+</log>

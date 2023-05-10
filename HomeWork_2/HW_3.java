@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork_2;
 
 // В файле содержится строка с данными:
 // [{"фамилия":"Иванов","оценка":"5","предмет":"Математика"},
@@ -20,7 +20,7 @@ import java.util.Map;
 public class HW_3 {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new FileReader("lesson2/rating.json"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("HomeWork_2/HW_3_text.json"))) {
             String data;
             while ((data = br.readLine()) != null) {
                 sb.append(data);
